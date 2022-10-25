@@ -10,5 +10,5 @@ variable "key_pair_name" {
   default = "class28key"
 }
 variable "eks_node_instance_type" {
-  default = "t2.medium"
+  default = "t2.micro"
 }
